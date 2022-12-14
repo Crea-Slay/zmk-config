@@ -1,0 +1,6 @@
+if SHIELD_NINO
+
+config ZMK_Nino
+    default "Nino"
+
+endif
